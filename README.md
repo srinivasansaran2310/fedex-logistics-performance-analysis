@@ -73,4 +73,3 @@ The analysis identified opportunities to improve delivery performance, reduce tr
 
 Srinivasan
 
-Updated project README
